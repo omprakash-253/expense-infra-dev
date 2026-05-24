@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  TF_WORKING_DIR: lessons/day30/code
+  TF_WORKING_DIR: Terraform/
 
 jobs:
   drift-detection:
